@@ -1,0 +1,2 @@
+# coooy
+hexo blog
